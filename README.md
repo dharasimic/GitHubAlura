@@ -14,6 +14,7 @@ Repositório com exercícios práticos da plataforma Alura sobre o uso de Git e 
 ## 📚 Cursos da Alura
 
 - [Git e GitHub: compartilhando e colaborando em projetos](cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos/)
+- [Git e GitHub: dominando controle de versão de código](https://cursos.alura.com.br/course/git-github-dominando-controle-versao-codigo)
 
 ## ✏ Autora
 [Dhara Simic](github.com/dharasimic)
