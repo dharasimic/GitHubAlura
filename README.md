@@ -10,6 +10,7 @@ Repositório com exercícios práticos da plataforma Alura sobre o uso de Git e 
 - Rebase
 - Repositórios remotos
 - Conflitos e Pull Requests
+- Gerenciamento de Versões
 
 ## 📚 Cursos da Alura
 
